@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Add a <url> line when you add a wiki article or news post. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://craftex.rexd.space/</loc></url>
+  <url><loc>https://craftex.rexd.space/community.html</loc></url>
+  <url><loc>https://craftex.rexd.space/rules.html</loc></url>
+  <url><loc>https://craftex.rexd.space/wiki.html</loc></url>
+  <url><loc>https://craftex.rexd.space/news.html</loc></url>
+  <url><loc>https://craftex.rexd.space/faq.html</loc></url>
+  <url><loc>https://craftex.rexd.space/timeline.html</loc></url>
+  <url><loc>https://craftex.rexd.space/staff.html</loc></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=how-to-join</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=cant-connect</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=survival-basics</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=commands</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://craftex.rexd.space/news.html?p=welcome-to-the-new-website</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=new-player-guide</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=ranks</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=about-craftexsmp</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=events-and-anarchy</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://craftex.rexd.space/wiki.html?a=discord-chat</loc><lastmod>2026-10-04</lastmod></url>
+</urlset>
