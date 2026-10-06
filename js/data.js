@@ -729,10 +729,10 @@ window.CRAFTEX = {
           <li><strong><a href="wiki.html">The wiki page</a></strong> with guides and commands.</li>
           <li><strong><a href="rules.html">The rules page</a></strong>, so everyone knows what to expect.</li>
           <li><strong>The showcase</strong> on the <a href="community.html#showcase">Community page</a>, where we display screenshots of the server.</li>
-          <li><strong><a href="timeline.html"The timeline Page</a>></strong>, How CraftexNetwork has grown.</li>
-          <li><strong><a href="staff.html"The staff Page</a>></strong>, The team that keeps Craftex running and the community safe. </li>
-          <li><strong><a href="news.html"The News Page</a>></strong>, Read latest news and announcements here.</li>
-          <li><strong><a href="faq.html"The FAQ Page</a>></strong>, Get answers of Frequently Asked Questions.</li>
+          <li><strong><a href="timeline.html">The timeline Page</a>></strong>, How CraftexNetwork has grown.</li>
+          <li><strong><a href="staff.html">The staff Page</a>></strong>, The team that keeps Craftex running and the community safe. </li>
+          <li><strong><a href="news.html">The News Page</a>></strong>, Read latest news and announcements here.</li>
+          <li><strong><a href="faq.html">The FAQ Page</a>></strong>, Get answers of Frequently Asked Questions.</li>
         </ul>
         <div class="callout"><p>Got a screenshot you are proud of? Share it in our <a href="{{discord}}">Discord</a>. The best ones may be featured in the showcase.</p></div>
         <p>More detailed announcement is Discord. Thanks to all the RIP Community members. This site is brought to life by @realironmanxd, Hope you like it. See you in game!</p>
